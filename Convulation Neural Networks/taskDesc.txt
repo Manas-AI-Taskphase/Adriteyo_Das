@@ -1,0 +1,13 @@
+A,B,CNNs with Timp
+
+With the help of your linear regression model, dino tim was able to find a thriving customer base for his gym, and has finally
+cultivated some solid jurrasic gymbros. To celebrate his gym, and your presence in the MANAS taskphase, dino tim decided to
+throw a picnic at the MANAS gardens. 
+Since dinos have a voracious appetite that could not be supported on a student project budget, he requested all the dinos to bring their own food, and the dinos, gym bros that they were,
+decided to bring a healthy salad of leafy greens.
+On the day of the picnic, the dinos laid out a solid spread. However, the good times would not last as a strong wind blew away all
+the leaves into one massive pile.
+Dino Tim once again turns to you, his truest friend, to create a CNN model to classify each of the leaves to the respective dino.
+In the folder he gave you, he also kept his vacation photos, classify those as well.
+
+
